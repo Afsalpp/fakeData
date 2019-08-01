@@ -2,11 +2,11 @@
 {
 "data" : [
       {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/project-boards.png", "name": "Project Boards","parent":"Taskmite"},
-      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Gautt Chart","parent":"Taskmite"},
-      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Project List","parent":"Taskmite"},
-      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Boards","parent":"Taskmite"},
-      {"id" : "5","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Taskmite"},
-      {"id" : "6","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task List","parent":"Taskmite"},
+      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/gantt-chart.png", "name": "Gautt Chart","parent":"Taskmite"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/project-list.png", "name": "Project List","parent":"Taskmite"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/task-boards.png", "name": "Task Boards","parent":"Taskmite"},
+      {"id" : "5","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/calender.png", "name": "Calenders","parent":"Taskmite"},
+      {"id" : "6","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/tasklist.png", "name": "Task List","parent":"Taskmite"},
       {"id" : "7","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/adminpanel_icon.png", "name": "Admin Panel","parent":"Timemite"},
       {"id" : "8","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/attendance_icon.png", "name": "Calender","parent":"Timemite"},
       {"id" : "9","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/screensharing.png", "name": "Screen Sharing","parent":"Timemite"},
@@ -24,12 +24,13 @@
       {"id" : "22","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Secure","parent":"Cloud"},
       {"id" : "23","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Sharing","parent":"Cloud"},
       {"id" : "24","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Stream","parent":"Cloud"},
-      {"id" : "25","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/task-management.png", "name": "Integration","parent":"Cloud"},
+      {"id" : "25","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/integration.png", "name": "Integration","parent":"Cloud"},
       {"id" : "26","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Data-base.png", "name": "Database","parent":"Office"},
       {"id" : "27","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/document-editor.png", "name": "Document Editor","parent":"Office"},
       {"id" : "28","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Drawing.png", "name": "Drawing","parent":"Office"},
       {"id" : "29","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Maths.png", "name": "Maths","parent":"Office"},
-      {"id" : "30","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/presentation.png", "name": "Presentation","parent":"Office"}
+      {"id" : "30","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/presentation.png", "name": "Presentation","parent":"Office"},
+      {"id" : "30","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Spread-sheet.png", "name": "Spread Sheet","parent":"Office"}
 
       
 
