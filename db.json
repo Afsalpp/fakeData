@@ -30,8 +30,7 @@
       {"id" : "27","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Document Editor","parent":"Collask Office"},
       {"id" : "28","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Drawing","parent":"Collask Office"},
       {"id" : "29","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Maths","parent":"Collask Office"},
-      {"id" : "30","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Presentation","parent":"Collask Office"},
-      {"id" : "31","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Spread Sheet","parent":"Collask Office"}
+      {"id" : "30","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Presentation","parent":"Collask Office"}
 
       
 
