@@ -2,9 +2,9 @@
 {
 "data" : [
       {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Taskmite"},
-      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Timemite"},
-      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Slash"},
-      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Collask Cloud"}
+      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Timemite"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Slash"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Collask Cloud"}
     
 ]
 }
