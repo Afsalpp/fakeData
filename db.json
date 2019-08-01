@@ -25,7 +25,7 @@
       {"id" : "22","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Secure","parent":"Cloud"},
       {"id" : "23","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Sharing","parent":"Cloud"},
       {"id" : "24","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Stream","parent":"Cloud"},
-      {"id" : "25","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Integration","parent":"Cloud"},
+      {"id" : "25","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/task-management.png", "name": "Integration","parent":"Cloud"},
       {"id" : "26","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Data-base.png", "name": "Database","parent":"Office"},
       {"id" : "27","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/document-editor.png", "name": "Document Editor","parent":"Office"},
       {"id" : "28","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/Drawing.png", "name": "Drawing","parent":"Office"},
