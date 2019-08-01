@@ -15,7 +15,7 @@
       {"id" : "12","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Audit","parent":"Timemite"},
       {"id" : "13","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Time Sheet","parent":"Timemite"},
       {"id" : "14","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/1-2-1discussion.png", "name": "1-2-1 Discussion","parent":"Slash"},
-      {"id" : "15","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Code Snippet","parent":"Slash"},
+      {"id" : "15","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/code_snippet.png", "name": "Code Snippet","parent":"Slash"},
       {"id" : "16","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Highlight Work","parent":"Slash"},
       {"id" : "17","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Keyboard","parent":"Slash"},
       {"id" : "18","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Project Planning","parent":"Slash"},
