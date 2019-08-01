@@ -1,10 +1,12 @@
 
 {
 "data" : [
-      {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Taskmite"},
-      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Timemite"},
-      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Slash"},
-      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Collask Cloud"}
+      {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Project Boards","parent" : "Taskmite"},
+      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Gautt Chart","parent" : "Taskmite"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Project List","parent" : "Taskmite"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Boards","parent" : "Taskmite"}
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent" : "Taskmite"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task List","parent" : "Taskmite"}
     
 ]
 }
