@@ -11,7 +11,6 @@
       {"id" : "8","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Calender","parent":"Timemite"},
       {"id" : "9","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/screensharing.png", "name": "Screen Sharing","parent":"Timemite"},
       {"id" : "10","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/teamviewer.png", "name": "Team Viewer","parent":"Timemite"},
-      {"id" : "11","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Timemite"},
       {"id" : "12","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Audit","parent":"Timemite"},
       {"id" : "13","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Time Sheet","parent":"Timemite"},
       {"id" : "14","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/1-2-1discussion.png", "name": "1-2-1 Discussion","parent":"Slash"},
