@@ -1,11 +1,6 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ [
+      {"icon": "assets/secure.png", "name": "Taskmite"},
+      {"icon": "assets/collabrative.png", "name": "Timemite"},
+      {"icon": "assets/streaming.png", "name": "Slash"},
+      {"icon": "assets/sharing.png", "name": "Collask Cloud"},
+    ];
