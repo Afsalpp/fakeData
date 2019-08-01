@@ -5,8 +5,16 @@
       {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Gautt Chart","parent":"Taskmite"},
       {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Project List","parent":"Taskmite"},
       {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Boards","parent":"Taskmite"},
-      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Taskmite"},
-      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task List","parent":"Taskmite"}
+      {"id" : "5","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Taskmite"},
+      {"id" : "6","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task List","parent":"Taskmite"},
+      {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/secure.png", "name": "Admin Panel","parent":"Timemate"},
+      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Calender","parent":"Timemate"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Screen Sharing","parent":"Timemate"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Team Viewer","parent":"Timemate"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Timemate"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Audit","parent":"Timemate"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Time Sheet","parent":"Timemate"}
+
     
 ]
 }
