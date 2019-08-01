@@ -9,7 +9,7 @@
       {"id" : "6","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task List","parent":"Taskmite"},
       {"id" : "7","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/adminpanel_icon.png", "name": "Admin Panel","parent":"Timemite"},
       {"id" : "8","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/collabrative.png", "name": "Calender","parent":"Timemite"},
-      {"id" : "9","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Screen Sharing","parent":"Timemite"},
+      {"id" : "9","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/screensharing.png", "name": "Screen Sharing","parent":"Timemite"},
       {"id" : "10","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Team Viewer","parent":"Timemite"},
       {"id" : "11","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/streaming.png", "name": "Calenders","parent":"Timemite"},
       {"id" : "12","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/sharing.png", "name": "Task Audit","parent":"Timemite"},
