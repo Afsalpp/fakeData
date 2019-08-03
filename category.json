@@ -1,1 +1,11 @@
 
+{
+"data" : [
+      {"id" : "1","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/project-boards.png", "name": "Taskmite","parent":"Taskmite"},
+      {"id" : "2","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/gantt-chart.png", "name": "Timemite","parent":"Taskmite"},
+      {"id" : "3","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/project-list.png", "name": "Slash","parent":"Taskmite"},
+      {"id" : "4","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/task-boards.png", "name": "Collask Cloud","parent":"Taskmite"},
+      {"id" : "5","icon": "https://raw.githubusercontent.com/Afsalpp/fakeData/master/calender.png", "name": "Collask Office","parent":"Taskmite"}
+  
+        ]
+ }
